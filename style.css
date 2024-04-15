@@ -1,8 +1,8 @@
 html {
   height: 100%;
   width: 100%;
-  background-image: url("image.png");
-  image-rendering: pixelated;
+  background-image: url("image2.png");
+  background-size: cover;
 
 }
 
